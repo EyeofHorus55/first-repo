@@ -1,2 +1,3 @@
 # first-repo
 This is my first repository. I'm learning the GitHub workflow.
+It's kinda confusing...
